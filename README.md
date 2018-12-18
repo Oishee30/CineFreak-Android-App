@@ -14,7 +14,7 @@
 <p>
 <br>
 <p float="left">
-<img src="Android/Pic5.png" alt="Pic4" swidth="200px" height="300px"><img src="hAndroid/pic10.png" alt="Pic5" width="200px" height="300px">
+<img src="Android/Pic5.png" alt="Pic4" swidth="200px" height="300px"><img src="Android/pic10.png" alt="Pic5" width="200px" height="300px">
 </p>
 <h3> Features </h3>
  <ul>
