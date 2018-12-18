@@ -5,7 +5,7 @@
 
  <div class="row">
   <div class="column">
-    <img src="Android/Pic1.png" alt="Pic1" style="width:50%">
+    <img src="Android/Pic1.png" alt="Pic1" width="50px" height="100px">
   </div>
   <div class="column">
     <img src="Android/Pic2.png"alt="Pic2" style="width:50%">
