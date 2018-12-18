@@ -9,12 +9,12 @@
 </p>
 <br>
 <p float="left">
-<img src="Android/Pic6.png" alt="Pic6" width="200px" height="300px"><img src="Android/Pic7.png" alt="Pic7" width="200px" height="300px"><img src="Android/Pic8.png" alt="Pic8" width="200px" height="300px">
-<img src="Android/Pic9.png" alt="Pic9" width="200px" height="300px">
+<img src="Android/Pic6.png" alt="Pic6" width="200px" height="300px"> <img src="Android/Pic7.png" alt="Pic7" width="200px" height="300px">  <img src="Android/Pic8.png" alt="Pic8" width="200px" height="300px">
+ <img src="Android/Pic9.png" alt="Pic9" width="200px" height="300px">
 <p>
 <br>
 <p float="left">
-<img src="Android/Pic5.png" alt="Pic4" swidth="200px" height="300px"><img src="Android/pic10.png" alt="Pic5" width="200px" height="300px">
+<img src="Android/Pic5.png" alt="Pic4" swidth="200px" height="300px"> <img src="Android/pic10.png" alt="Pic5" width="200px" height="300px">
 </p>
 <h3> Features </h3>
  <ul>
