@@ -5,10 +5,10 @@
 
  <div class="row">
   <div class="column">
-    <img src="Android/Pic1.png" alt="Pic1" style="width:100%">
+    <img src="Android/Pic1.png" alt="Pic1" style="width:50%">
   </div>
   <div class="column">
-    <img src="Android/Pic2.png"alt="Pic2" style="width:100%">
+    <img src="Android/Pic2.png"alt="Pic2" style="width:50%">
   </div>
   <div class="column">
     <img src="Android/Pic3.png" alt="Pic3" style="width:100%">
