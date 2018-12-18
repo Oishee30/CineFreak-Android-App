@@ -5,34 +5,34 @@
 
  <div class="row">
   <div class="column">
-    <img src="./img/Android/Pic1.png" alt="Snow" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic1.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
-    <img src="./img/Android/Pic2.png"alt="Forest" style="width:100%">
+    <img src=".https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic2.png"alt="Forest" style="width:100%">
   </div>
   <div class="column">
-    <img src="./img/Android/Pic3.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic3.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic4.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic4.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic5.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic5.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/pic10.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/pic10.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic6.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic6.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic7.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic7.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic8.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic8.png" alt="Mountains" style="width:100%">
   </div>
    <div class="column">
-    <img src="./img/Android/Pic9.png" alt="Mountains" style="width:100%">
+    <img src="https://github.com/Oishee30/OisheeBinteyHoque/tree/master/img/Android/Pic9.png" alt="Mountains" style="width:100%">
   </div>
 </div>
 <h3> Features </h3>
